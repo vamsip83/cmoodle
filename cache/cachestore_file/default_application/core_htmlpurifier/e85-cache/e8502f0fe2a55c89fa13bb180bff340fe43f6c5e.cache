@@ -1,0 +1,1 @@
+s:127:"Detected incorrect $CFG-&gt;wwwroot in config.php, it must not contain trailing slash.<br />Please notify server administrator.";
